@@ -1,0 +1,15 @@
+'scopeName': 'source.ujm'
+'fileTypes': [
+  'ujm'
+]
+'name': 'ujihisa'
+'patterns': [
+  {
+    'match': "便利"
+    'name': 'constant.language.whitespace'
+  }
+  {
+    'match': "感極まってきました"
+    'name': 'constant.numeric.whitespace'
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "language-ujihisa",
+  "version": "0.0.1",
+  "description": "ujihisa language support in Atom",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "http://atom.github.io/language-ujihisa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattn/language-ujihisa.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattn/language-ujihisa/issues"
+  }
+}
