@@ -1,6 +1,6 @@
 {
   "name": "language-ujihisa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ujihisa language support in Atom",
   "engines": {
     "atom": "*",
